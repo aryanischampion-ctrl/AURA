@@ -1,0 +1,8 @@
+venv/
+qai_env/
+qai_hub_env/
+__pycache__/
+*.pyc
+.env
+models/intent_classifier.pkl
+models/intent_vectorizer.pkl
